@@ -1,4 +1,7 @@
+---
 <img src="https://github.com/khaphachao-phrachao/khaphachao-phrachao/blob/main/header.png" />  
+
+<div align="center" />
 
 **Изучаемые языки и прочие навыки:**
 
