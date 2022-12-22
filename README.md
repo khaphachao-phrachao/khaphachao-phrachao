@@ -3,6 +3,8 @@
 
 <div align="center" />
 
+
+
 **Изучаемые языки и прочие навыки:**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&style=plastic)
@@ -14,5 +16,6 @@
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white&style=plastic)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&style=plastic)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khaphachao-phrachao&theme=dracula)](https://git.io/streak-stats) [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
