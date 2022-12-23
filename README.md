@@ -1,7 +1,11 @@
 ---
 <img src="https://github.com/khaphachao-phrachao/khaphachao-phrachao/blob/main/header.png" />
 
+---
+
 <div align="center" />
+
+
 
 ▫️ *🌱 Начинающий QA тестировщик*
 
@@ -17,7 +21,9 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=Social&logo=postgresql&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=Social&logo=selenium&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=Social&logo=git&logoColor=white)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khaphachao-phrachao&theme=nord)](https://git.io/streak-stats)
-
+  
+  ---
+  
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khaphachao-phrachao&theme=nord)](https://git.io/streak-stats)
+  
 ---
